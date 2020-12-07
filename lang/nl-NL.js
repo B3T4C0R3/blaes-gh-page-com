@@ -48,8 +48,24 @@ export default () => {
         en: 'Engels',
         nl: 'Nederlands'
       },
-      Blaes: {
-
+      blaes: {
+        banner_title: 'Geniet van Blaes Bier',
+        banner_subtitle: 'Zaanse ijver met Duitse degelijkheid',
+        'header_our-beers': 'Onze bieren',
+        header_about: 'Over Blaes',
+        header_shop: 'Webshop',
+        header_business: 'Zakelijk',
+        header_blog: 'Blog',
+        header_contact: 'Contact',
+        promo_btn: 'Bestellen',
+        new_desc: 'Onze bieren',
+        about_title: 'Een mix van Zaanse gezelligheid en Duits kwaliteitsbier',
+        about_left_title: 'Zaanse gezelligheid',
+        about_left_text:
+          'De unieke smaak van Duits kwaliteitsbier en de gezelligheid die het met zich meebrengt, heeft de familie Blaes doen besluiten om zelf bieren te gaan brouwen volgens het eeuwenoude Duitse Reinheitsgebot. Bier, zoals zij het zélf willen drinken.',
+        about_right_title: 'Duits kwaliteitsbier',
+        about_right_text:
+          'Ieder jaar ging de gehele familie Blaes op wandelvakantie in Beieren. Na de lange wandeltochten in de Beierse Alpen, zat de familie Blaes gezellig bij elkaar en genoot van de heerlijke traditionele pilsners die Beieren rijk is.'
       }
     })
   })
