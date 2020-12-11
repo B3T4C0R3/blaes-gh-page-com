@@ -65,7 +65,25 @@ export default () => {
           'De unieke smaak van Duits kwaliteitsbier en de gezelligheid die het met zich meebrengt, heeft de familie Blaes doen besluiten om zelf bieren te gaan brouwen volgens het eeuwenoude Duitse Reinheitsgebot. Bier, zoals zij het zélf willen drinken.',
         about_right_title: 'Duits kwaliteitsbier',
         about_right_text:
-          'Ieder jaar ging de gehele familie Blaes op wandelvakantie in Beieren. Na de lange wandeltochten in de Beierse Alpen, zat de familie Blaes gezellig bij elkaar en genoot van de heerlijke traditionele pilsners die Beieren rijk is.'
+          'Ieder jaar ging de gehele familie Blaes op wandelvakantie in Beieren. Na de lange wandeltochten in de Beierse Alpen, zat de familie Blaes gezellig bij elkaar en genoot van de heerlijke traditionele pilsners die Beieren rijk is.',
+        featured: 'Producten',
+        about2_title: 'Proef de rijke geschiedenis van de Familie Blaes',
+        about2_blaes_title: 'De familie Blaes',
+        about2_blaes_text:
+          'De familie Blaes komt oorspronkelijk uit Düsseldorf en is in 1920 geëmigreerd naar Zaandam. Duitsland lag na de 1 e WO volledig in puin en de Zaanstreek bood velerlei perspectieven.',
+        about2_station_title: 'De Blaesen van de Stationsstraat',
+        about2_station_text:
+          'Vanaf de jaren zestig stond de familie Blaes beter bekend als “de Blaesen van de Stationsstraat” met grootvader Egon Blaes aan het roer, die een grote bijdrage leverde aan de Nederlandse confectie industrie, uniek in de Zaanstreek.',
+        about2_bayern_title: 'Traditionele pilsener en gezelligheid uit Bayern',
+        about2_bayern_text:
+          'Ieder jaar ging de gehele familie Blaes op wandelvakantie in Beieren. Na de lange wandeltochten in de Beierse Alpen, zat de familie Blaes gezellig bij elkaar en genoot van de heerlijke traditionele pilsners die Beieren rijk is. De unieke smaak van Duits kwaliteitsbier en de gezelligheid die het met zich meebrengt, heeft de familie Blaes doen besluiten om zelf bieren te gaan brouwen volgens het eeuwenoude Duitse Reinheitsgebot. Bier, zoals zij het zélf willen drinken.',
+        product_btn: 'Toevoegen aan winkelmand',
+        product_out_of_stock: 'Wordt gebrouwen',
+        view_product: 'Bekijken',
+        age_question:
+          'Om onze website te bezoeken moet je 18 jaar of ouder zijn',
+        age_question2:
+          'Vul je geboortedatum in om toegang te krijgen tot de website'
       }
     })
   })
