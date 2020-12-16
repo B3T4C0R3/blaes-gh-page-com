@@ -85,6 +85,8 @@ export default () => {
         checkout_pay_title: 'U wordt doorverwezen',
         checkout_redirect: 'Even geduld...',
         checkout_error: 'Oops er ging iets mis, probeer opnieuw',
+        checkout_netherlands: 'Nederland',
+        checkout_germany: 'Duitsland',
         required: 'Dit veld is vereist!',
         email_invalid: 'Verkeerd email adres!',
         checkout_url: 'Betaallink',
