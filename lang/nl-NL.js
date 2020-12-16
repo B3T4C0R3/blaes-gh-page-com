@@ -11,16 +11,18 @@ export default () => {
         error_without_status: 'An error occurred on the server',
         cookies_accept: 'Accepteren',
         cookies:
-          'Wij maken gebruik van cookies om uw ervaring te optimaliseren.',
+          'Wij maken gebruik van cookies om uw ervaring te optimaliseren. Lees',
+        cookies2: 'hier',
+        cookies3: 'meer.',
         en: 'Engels',
         nl: 'Nederlands'
       },
       blaes: {
         banner_title: 'Geniet van Blaes Bier',
         banner_subtitle: 'Zaanse ijver met Duitse degelijkheid',
-        'header_our-beers': 'Onze bieren',
-        header_about: 'Over Blaes',
-        header_shop: 'Webshop',
+        'header_#our-beers': 'Onze bieren',
+        'header_#about': 'Over Blaes',
+        'header_#shop': 'Webshop',
         header_business: 'Zakelijk',
         header_blog: 'Blog',
         header_contact: 'Contact',
@@ -61,6 +63,9 @@ export default () => {
         checkout_product: 'Product',
         checkout_price: 'Prijs',
         checkout_quantity: 'Hoeveelheid',
+        checkout_shipping: 'Verzendkosten',
+        checkout_free_shipping:
+          'Gratis verzendkosten bij een bestelling van minimaal € 75,- ',
         checkout_total: 'Totaal',
         checkout_order: 'Volgende',
         checkout_no_data: 'U heeft geen producten in uw winkelmand.',
@@ -88,7 +93,26 @@ export default () => {
           'U heeft betaald, er is een bevestigingsmail gestuurd naar',
         success_status: 'De status van uw bestelling is',
         success_checkout: 'Betaling hervatten',
-        back_home: 'Terug naar de homepagina'
+        back_home: 'Terug naar de homepagina',
+        contact: 'Contact',
+        contact_text:
+          'Heeft u een vraag of wilt u meer informatie over een van onze producten? Gebruik onderstaand contactformulier en wij nemen zo spoedig mogelijk contact met u op.',
+        contact_name: 'Naam',
+        contact_email: 'Email',
+        contact_message: 'Bericht',
+        contact_phone: 'Telefoon',
+        contact_company: 'Bedrijfsnaam',
+        contact_business: 'Zakelijk',
+        contact_submit: 'Versturen',
+        contact_success:
+          'Bericht verstuurd! Wij zullen zo spoedig mogelijk reageren.',
+        contact_error: 'Er is iets fout gegaan, probeer het later opnieuw.',
+        footer_link: 'Links',
+        footer_address: 'Adres',
+        footer_street: 'Oud Heinstraat 73',
+        footer_postalcode: '1544XB Zaandijk',
+        footer_region: 'Noord-Holland',
+        footer_country: 'Nederland'
       }
     })
   })
