@@ -66,7 +66,7 @@ export default () => {
         checkout_quantity: 'Hoeveelheid',
         checkout_shipping: 'Verzendkosten',
         checkout_free_shipping:
-          'Gratis verzendkosten bij een bestelling van minimaal € 75,- ',
+          'Gratis verzendkosten bij een bestelling van € 75,- ',
         checkout_total: 'Totaal',
         checkout_order: 'Volgende',
         checkout_no_data: 'U heeft geen producten in uw winkelmand.',
