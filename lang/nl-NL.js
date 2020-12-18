@@ -19,7 +19,7 @@ export default () => {
       },
       blaes: {
         banner_title: 'Geniet van Blaes Bier',
-        banner_subtitle: 'Zaanse ijver met Duitse degelijkheid',
+        banner_subtitle: 'Puur traditiegetrouw pilsener',
         'header_#our-beers': 'Onze bieren',
         'header_#about': 'Over Blaes',
         'header_#shop': 'Webshop',
@@ -39,15 +39,16 @@ export default () => {
         about2_title: 'Proef de rijke geschiedenis van de Familie Blaes',
         about2_blaes_title: 'De familie Blaes',
         about2_blaes_text:
-          'De familie Blaes komt oorspronkelijk uit Düsseldorf en is in 1920 geëmigreerd naar Zaandam. Duitsland lag na de 1 e WO volledig in puin en de Zaanstreek bood velerlei perspectieven.',
+          'Overgrootmoeder Blaes vestigde zich in Zaandam in 1920 als economisch vluchteling vanuit Düsseldorf. Duitsland lag volledig in puin na de 1e wereldoorlog en de Zaanstreek bood perspectieven.',
         about2_station_title: 'De Blaesen van de Stationsstraat',
         about2_station_text:
-          'Vanaf de jaren zestig stond de familie Blaes beter bekend als “de Blaesen van de Stationsstraat” met grootvader Egon Blaes aan het roer, die een grote bijdrage leverde aan de Nederlandse confectie industrie, uniek in de Zaanstreek.',
-        about2_bayern_title: 'Traditionele pilsener en gezelligheid uit Bayern',
+          'Vanaf 1955 stond de familie Blaes beter bekend als “de Blaesen van de Stationsstraat” met grootvader Egon Blaes aan het roer, die een grote bijdrage leverde aan de confectie industrie, uniek in de Zaanstreek.',
+        about2_bayern_title:
+          'Traditionele pilsener en gezelligheid uit Beieren',
         about2_bayern_text:
           'Ieder jaar ging de gehele familie Blaes op wandelvakantie in Beieren. Na de lange wandeltochten in de Beierse Alpen, zat de familie Blaes gezellig bij elkaar en genoot van de heerlijke traditionele pilsners die Beieren rijk is. De unieke smaak van Duits kwaliteitsbier en de gezelligheid die het met zich meebrengt, heeft de familie Blaes doen besluiten om zelf bieren te gaan brouwen volgens het eeuwenoude Duitse Reinheitsgebot. Bier, zoals zij het zélf willen drinken.',
         product_btn: 'Toevoegen aan winkelmand',
-        product_out_of_stock: 'Wordt gebrouwen',
+        product_out_of_stock: 'Binnenkort verkrijgbaar!',
         view_product: 'Bekijken',
         age_question:
           'Om onze website te bezoeken moet je 18 jaar of ouder zijn',
@@ -87,6 +88,8 @@ export default () => {
         checkout_error: 'Oops er ging iets mis, probeer opnieuw',
         checkout_netherlands: 'Nederland',
         checkout_germany: 'Duitsland',
+        checkout_terms: 'Ik ga akkoord met de algemene ',
+        checkout_terms2: 'voorwaarden',
         required: 'Dit veld is vereist!',
         email_invalid: 'Verkeerd email adres!',
         checkout_url: 'Betaallink',
