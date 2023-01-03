@@ -20,34 +20,37 @@ export default () => {
       },
       blaes: {
         banner_title: 'Geniet van Blaes Bier',
-        banner_subtitle: 'Puur traditiegetrouw pilsener',
-        'header_#our-beers': 'Onze bieren',
-        'header_#about': 'Over Blaes',
-        'header_#shop': 'Webshop',
-        header_business: 'Zakelijk',
-        header_blog: 'Blog',
+        banner_subtitle:
+          'Een mix van Zaanse gezelligheid en Duits kwaliteitsbier',
+        'header_beers-and-more': 'Bier en meer',
+        header_about: 'Over ons',
+        header_home: 'Home',
+        header_events: 'Events',
+        header_media: 'Media',
         header_contact: 'Contact',
         promo_btn: 'Bestellen',
         new_desc: 'Onze bieren',
         about_title: 'Een mix van Zaanse gezelligheid en Duits kwaliteitsbier',
-        about_left_title: 'Zaanse gezelligheid',
+        about_left_title: 'Er waren eens...',
         about_left_text:
-          'De unieke smaak van Duits kwaliteitsbier en de gezelligheid die het met zich meebrengt, heeft de familie Blaes doen besluiten om zelf bieren te gaan brouwen volgens het eeuwenoude Duitse Reinheitsgebot. Bier, zoals zij het zélf willen drinken.',
-        about_right_title: 'Duits kwaliteitsbier',
-        about_right_text:
-          'Ieder jaar ging de gehele familie Blaes op wandelvakantie in Beieren. Na de lange wandeltochten in de Beierse Alpen, zat de familie Blaes gezellig bij elkaar en genoot van de heerlijke traditionele pilsners die Beieren rijk is.',
+          'De overgrootmoeder van de gebroeders Blaes vestigde zich in Zaandam in 1920 als economisch vluchteling vanuit Düsseldorf. Duitsland lag volledig in puin na de 1e WO en de Zaanstreek bood perspectief. Vanaf 1955 stond de familie beter bekend als “de Blaesen van de Stationsstraat” met grootvader Egon Blaes aan het roer die een grote bijdrage leverde aan de confectie industrie, uniek in de Zaanstreek. Enkele generaties later combineerden de gebroeders Blaes hun voorliefde voor bier en hun Duitse roots met Blaes Bier.',
+        about_btn: 'Meer info over blaesbeer',
+        about_brewer_title: 'Elian Blaes',
+        about_brewer_subtitle: 'De brouwer',
+        about_brewer_text:
+          'In januari 2019 kocht Elian Blaes uit Zaandam een kleine brouwketel om bieren te brouwen in zijn keuken. Als voormalig chef-kok was hij altijd op zoek naar smaken en uitdagingen. Zo gaf hij onder andere kookworkshops; Koken met bier. Naast de interesse voor het brouwproces was ook het gemis van Duitse klassieke bieren in de Nederlandse schappen een motivatie. Hij wilde bieren brouwen die hij en zijn broer Ralph zélf wilden drinken.',
+        beer_title: 'Bier en Meer',
+        beer_subtitle: 'Verfijnde Complexiteit',
+        beer_text:
+          'Bier hoeft niet altijd maar “speciaal” te zijn. Het mag naar de smaak van de gebroeders Blaes zelfs behoorlijk toegankelijk zijn, waarbij de doordrinkbaarheid een belangrijke factor is. Toegankelijk, maar zonder enige concessie op kwalitatief hoogwaardige en pure ingrediënten. Degelijkheid zonder fratsen.',
+        beer_story_title: 'Bier met een verhaal',
+        beer_story_text:
+          'Achter alle bieren van Blaes zit een persoonlijk verhaal geïnspireerd door familie, het heden, het verleden en door de (Zaan)streek. De bieren zijn direct verbonden aan onze persoonlijkheid en daarom zullen we geen bieren brouwen uit commercieel oogpunt als we het niet zélf zouden drinken.',
         featured: 'Producten',
-        about2_title: 'Proef de rijke geschiedenis van de Familie Blaes',
-        about2_blaes_title: 'De familie Blaes',
-        about2_blaes_text:
-          'Overgrootmoeder Blaes vestigde zich in Zaandam in 1920 als economisch vluchteling vanuit Düsseldorf. Duitsland lag volledig in puin na de 1e wereldoorlog en de Zaanstreek bood perspectieven.',
-        about2_station_title: 'De Blaesen van de Stationsstraat',
-        about2_station_text:
-          'Vanaf 1955 stond de familie Blaes beter bekend als “de Blaesen van de Stationsstraat” met grootvader Egon Blaes aan het roer, die een grote bijdrage leverde aan de confectie industrie, uniek in de Zaanstreek.',
-        about2_bayern_title:
-          'Traditionele pilsener en gezelligheid uit Beieren',
-        about2_bayern_text:
-          'Ieder jaar ging de gehele familie Blaes op wandelvakantie in Beieren. Na de lange wandeltochten in de Beierse Alpen, zat de familie Blaes gezellig bij elkaar en genoot van de heerlijke traditionele pilsners die Beieren rijk is. De unieke smaak van Duits kwaliteitsbier en de gezelligheid die het met zich meebrengt, heeft de familie Blaes doen besluiten om zelf bieren te gaan brouwen volgens het eeuwenoude Duitse Reinheitsgebot. Bier, zoals zij het zélf willen drinken.',
+        about2_title: 'Verfijnde complexiteit',
+        about2_text:
+          'Bier hoeft niet altijd maar “speciaal” te zijn. Het mag naar de smaak van de gebroeders Blaes zelfs behoorlijk toegankelijk zijn, waarbij de doordrinkbaarheid een belangrijke factor is. Toegankelijk, maar zonder enige concessie op kwalitatief hoogwaardige en pure ingrediënten. Degelijkheid zonder fratsen.',
+        about2_btn: 'Ontdek onze bieren',
         product_btn: 'Toevoegen aan winkelmand',
         product_out_of_stock: 'Binnenkort verkrijgbaar!',
         view_product: 'Bekijken',
@@ -126,7 +129,82 @@ export default () => {
         header_shops: 'Verkooppunten',
         read_more: 'Meer Lezen',
         blog_title: 'Blog',
-        'header_#blog': 'Blog'
+        'header_#blog': 'Blog',
+        beer_specials_title: 'Specials',
+        beer_specials_text:
+          'Achter alle bieren van Blaes zit een persoonlijk verhaal geïnspireerd door familie, het heden, het verleden en door de (Zaan)streek. De bieren zijn direct verbonden aan onze persoonlijkheid en daarom zullen we geen bieren brouwen uit commercieel oogpunt als we het niet zélf zouden drinken.',
+        beer_molenklap_title: 'Blaes molenklap kruidenbitter',
+        beer_molenklap_text:
+          'Een Zaanse kruidenbitter van graanalcohol uit eigen stokerij. Een samenwerking van Zaanshine Distileerderij en Blaes Bier. Het perfecte kruidenbittertje om je glas Blaes Gold mee te vergezellen.',
+        beer_geitenkaas_title: 'Geitenbierkaas',
+        beer_geitenkaas_text:
+          'Zaanse geiten, Zaanse melk, Zaanse boeren, Zaanse kaasmakerij, Zaanse bierbrouwer, Zaans bier, veel geduld en vooral veel passie voor eerlijke producten. Biologisch, rauwmelks, ambachtelijk, lokaal en vooral heel erg lekker! Overheerlijk geitenkaasje, gerijpt in een badje van Blaes Tripel 777.',
+        beers: {
+          Gold_title: 'Een ‘Zaanse Helles’ volgens het Duitse Reinheitsgebot',
+          Gold_text: `… opdat bier alleen mout, hop, water en gist bevat.
+
+          Strogeel van kleur, moutig, licht zoetig, verfrissend, doordrinkbaar en vol van smaak.
+          Bevat Duitse mouten, hopsoorten en gist. Gemaakt met water uit de karakteristieke
+          Oer-Hollandse duinen.
+          Een recept vol toewijding, volharding en nieuwsgierigheid.`,
+          Gold_description1: 'Cat.1 Bier | stamwortgehalte 11,5°P',
+          Gold_description2: 'Alc.4,8% vol. | 4°C',
+          '777_title': 'Een Tripel van Zaanse bodem',
+          '777_text': `… speciaal bier van hoge gisting, koud gelagerd met hergisting op de fles en fust.
+
+          Amber van kleur, moutig, fruitig, soepel, licht bitter, volle body, verfijnd complex, toegankelijk en vol van smaak.
+          Met subtiele tonen van karamel en donker fruit.
+          Een combinatie van Belgische abdijgist, Duitse mouten, Sloveense hopsoorten, ruwe rietsuiker en water uit de karakteristieke oer-Hollandse duinen.`,
+          '777_description1': 'Cat.s Bier | stamwortgehalte 15,8°P',
+          '777_description2': 'Alc.7,77% vol. | 7.77°C',
+          Tsar_title: 'Een zachte en heldere Brown Porter',
+          Tsar_text: `Het standbeeld van ‘Tsaar Peter de Grote’ prijkt ﬁer op het midden van de Dam in Zaandam.
+          De man verantwoordelijk voor de modernisering en hervorming van Rusland.
+          Het symbool van nieuwsgierigheid, leergierigheid, toewijding en volharding.
+          
+          Zo kwam Peter I Aleksejevitsj Romanov in 1697 terecht in Zaandam om het vak te leren van botenbouwer.
+          Een jaar later, in Engeland, werd hij verliefd op hun donkere bieren; Porters en Stouts.
+          Zowaar de oorsprong van de ‘Russian Imperial Stout’!`,
+          Tsar_description1: 'Cat.1 Bier | stamwortgehalte 14,4°P',
+          Tsar_description2: 'Alc.6,5% vol. | 7°C',
+          Weizen_title: 'Een zomers Zaanse klassieker',
+          Weizen_text: `…gebrouwen volgens het Duitse Reinheitsgebot.
+
+          Een klassiek Beiers tarwebier.
+          Ongefilterd, van hoge gisting met hergisting op fles.
+          Vol maar zacht, toegankelijk, moutig, licht bitter, verfrissend en zeer doordrinkbaar.
+          
+          Uitermate geschikt voor foodpairing. Gebrouwen met ingrediënten van de hoogste kwaliteit.`,
+          Weizen_description1: 'Cat.1 Bier | stamwortgehalte 12,3°P',
+          Weizen_description2: 'Alc.5,1% vol. | 5°C',
+          IPA_title: 'Maritiem erfgoed in een fles',
+          IPA_text: `…waar de reis ook heenging, bier hield ons altijd en overal gezelschap.
+
+          Een zeer doordrinkbare kruising tussen een Britse Pale Ale en een Amerikaanse IPA met een subtiele combinatie van selectief gekweekte inheems Amerikaanse hopsoorten en
+          Europese aroma- en bitterhop.
+          
+          Een relatief moderne bierstijl met erfgoed uit de Nieuwe Wereld, en Oost-Indië tonen het belang van bier door de geschiedenis heen.`,
+          IPA_description1: 'Cat.1 Bier | stamwortgehalte 11,2°P',
+          IPA_description2: 'Alc.4,8% vol. | 6°C'
+        },
+        specials_title: 'bierproeverij / tap show / bier & spijs',
+        specials_text: `Wil je de Blaes Bier ervaring zo optimaal mogelijk beleven?
+        Dan is het binnenkort mogelijk om de brouwer -Elian Blaes- van Blaes Bier te boeken voor een aantal events.
+        Neem contact op voor de mogelijkheden.`,
+        workshop_title: 'Bierproeverij',
+        workshop_text:
+          'Een gezellige bierproeverij op locatie in een ongedwongen sfeer. Brouwer Elian Blaes vertelt over de bieren van Blaes en geeft toelichting over de smaken, de stijlen en de verhalen achter de bieren.',
+        tapshow_title: 'Tap show',
+        tapshow_text:
+          'Geef je (bedrijfs)feestje, bruiloft of evenement een extra dimensie met de luxe tapkast van Blaes. Heerlijk vers bier van de tap mét barmedewerker!',
+        bbq_title: 'Bier & spijs',
+        bbq_text:
+          'In samenwerking met diverse horecagelegenheden organiseert Blaes smakelijke BIER & SPIJS avonden, waarbij het eten en de bieren naadloos aansluiten en zorgen voor een geweldige smaakbeleving.',
+        media_title: 'Media Gallerij',
+        impressions_title: 'Media Impressies',
+        articles_title: 'Media Artikelen',
+        videos_title: "Video's"
+
       }
     })
   })
