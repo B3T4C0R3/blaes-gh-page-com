@@ -200,6 +200,8 @@ export default () => {
         bbq_title: 'Bier & spijs',
         bbq_text:
           'In samenwerking met diverse horecagelegenheden organiseert Blaes smakelijke BIER & SPIJS avonden, waarbij het eten en de bieren naadloos aansluiten en zorgen voor een geweldige smaakbeleving.',
+        specials_contact_title: 'Meer informatie',
+        specials_contact_btn: 'Contact opnemen',
         media_title: 'Media Gallerij',
         impressions_title: 'Media Impressies',
         articles_title: 'Media Artikelen',
