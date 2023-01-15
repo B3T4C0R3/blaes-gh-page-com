@@ -205,8 +205,10 @@ export default () => {
         media_title: 'Media Gallerij',
         impressions_title: 'Media Impressies',
         articles_title: 'Media Artikelen',
-        videos_title: "Video's"
-
+        videos_title: "Video's",
+        family: 'Zaanse Families',
+        history: 'Zaanse Geschiedenis',
+        culture: 'Zaans Erfgoed'
       }
     })
   })
