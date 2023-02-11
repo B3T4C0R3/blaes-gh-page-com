@@ -208,7 +208,11 @@ export default () => {
         videos_title: "Video's",
         family: 'Zaanse Families',
         history: 'Zaanse Geschiedenis',
-        culture: 'Zaans Erfgoed'
+        culture: 'Zaans Erfgoed',
+        terms: 'Algemene Voorwaarden',
+        disclaimer: 'Disclaimer',
+        privacy: 'Privacyverklaring',
+        cookies: 'Cookieverklaring'
       }
     })
   })
