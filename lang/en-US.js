@@ -32,7 +32,7 @@ export default () => {
         about_left_title: 'Once upon a time...',
         about_left_text:
           'The great-grandmother of the Blaes brothers settled in Zaandam in 1920 as an economic refugee from Düsseldorf. Germany was completely in ruins after the 1st World War and the Zaan region offered perspective. From 1955 the family was better known as “de Blaesen van de Stationsstraat” with grandfather Egon Blaes at the helm, who made a major contribution to the clothing industry, unique in the Zaan region. A few generations later, the Blaes brothers combined their love for beer and their German roots with Blaes Bier.',
-        about_btn: 'More info about blaesbear',
+        about_btn: 'More info about Blaes Beer',
         about_brewer_title: 'Elian Blaes',
         about_brewer_subtitle: 'The brewer',
         about_brewer_text:
